@@ -1,4 +1,6 @@
-package com.mvp;
+package com.mvp.login;
+
+import com.mvp.BaseView;
 
 /**
  * Created by ardenolgundemir on 04/05/2017.

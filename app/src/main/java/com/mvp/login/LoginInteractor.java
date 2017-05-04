@@ -1,4 +1,4 @@
-package com.mvp;
+package com.mvp.login;
 
 /**
  * Created by ardenolgundemir on 04/05/2017.

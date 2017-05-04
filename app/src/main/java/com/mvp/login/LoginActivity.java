@@ -1,4 +1,4 @@
-package com.mvp;
+package com.mvp.login;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -7,9 +7,15 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
+import com.mvp.R;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+
+/**
+ * Created by ardenolgundemir on 04/05/2017.
+ */
 
 public class LoginActivity extends AppCompatActivity implements LoginView {
 
